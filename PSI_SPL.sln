@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSI_SPL", "PSI_SPL\PSI_SPL.csproj", "{B8D3EDD5-88F9-42FD-82E1-06E1C1B1E4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D3EDD5-88F9-42FD-82E1-06E1C1B1E4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D3EDD5-88F9-42FD-82E1-06E1C1B1E4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D3EDD5-88F9-42FD-82E1-06E1C1B1E4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D3EDD5-88F9-42FD-82E1-06E1C1B1E4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDEB1F74-D1FB-4773-AAB8-E87E50DCD451}
+	EndGlobalSection
+EndGlobal
